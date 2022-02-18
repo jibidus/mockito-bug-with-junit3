@@ -8,4 +8,4 @@
  */
 
 rootProject.name = "mockito-bug-with-junit3"
-include("app")
+include("lib")
